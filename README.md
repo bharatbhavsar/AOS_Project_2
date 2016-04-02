@@ -14,12 +14,16 @@ Testing script file: testMutex.sh
 command: ./testMutex.sh <configFileName.txt>
 
 Steps to execute:
+
 1. Run Launcher script
+
 2. Run cleanup script once execution of source code is finished
+
 3. All nodes will generate log-<nodeId>.out files.
+
 4. Run testing script to evaluate is MutEx is achieved which uses all log files generated.
 
-### Source code is self explainatory through all javadoc comments ### 
+****Source code is self explainatory through all javadoc comments **** 
 
-## For more details about requirements please read project2.pdf ##
+***For more details about requirements please read project2.pdf ***
  
